@@ -41,7 +41,7 @@ a.tab-label:hover,a.tab-label.active-btn {
 }
 @media screen and (max-width:768px) {    
   .tab-nav > .tab-label {
-    margin: 0.5px 0;
+    margin: 10px 0;
     width: 100%;
   }
 }
